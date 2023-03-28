@@ -2,6 +2,7 @@ pylint
 autopep8
 ipykernel
 ipython
+openpyxl
 matplotlib
 numpy
 pandas
