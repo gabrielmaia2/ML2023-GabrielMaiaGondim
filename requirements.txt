@@ -6,4 +6,7 @@ openpyxl
 matplotlib
 numpy
 pandas
+scipy
 scikit-learn
+tensorflow
+scikeras
