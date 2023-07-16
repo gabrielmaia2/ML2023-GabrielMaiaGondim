@@ -1,4 +1,3 @@
-# Curso de Imersão em Ciência de Dados
+# Atividades de ML
 
-Jupyter notebooks do Curso de Imersão em Ciência de Dados
-
+Atividades da disciplina de Machine Learning.
